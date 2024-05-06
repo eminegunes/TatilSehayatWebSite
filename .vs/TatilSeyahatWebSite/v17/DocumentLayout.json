@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|E:\\project\\traveltrip\\TatilSeyahatWebSite\\web\\destinations.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:web\\destinations.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "destinations.html",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\web\\destinations.html",
+              "RelativeDocumentMoniker": "web\\destinations.html",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\web\\destinations.html",
+              "RelativeToolTip": "web\\destinations.html",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-30T07:15:35.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
               "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Views\\Default\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-30T07:10:56.78Z",
               "EditorCaption": ""
