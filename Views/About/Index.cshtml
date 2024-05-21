@@ -10,13 +10,12 @@
     <div class="wrap">
         <div class="about">
             <h3>Hakkımızda</h3>
-            @foreach (var x in Model) //listeleme için...
+            @foreach (var item in Model)
             {
-                <img src="@x.FotoURL" alt="" />
+                <img src="@item.FotoURL" alt="" />
 
-                <p>@x.Aciklama</p>
+                <p>@item.Aciklama</p>
             }
-
         </div>
     </div>
 </div>
