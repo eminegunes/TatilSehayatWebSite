@@ -119,8 +119,12 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AboutController.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\BlogController.cs" />
+    <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -136,6 +140,25 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="blog\about.html" />
+    <Content Include="blog\contact.html" />
+    <Content Include="blog\css\bootstrap.css" />
+    <Content Include="blog\css\style.css" />
+    <Content Include="blog\images\avatar.png" />
+    <Content Include="blog\images\icon3.png" />
+    <Content Include="blog\images\logo.jpg" />
+    <Content Include="blog\images\man.jpg" />
+    <Content Include="blog\images\more.png" />
+    <Content Include="blog\images\post1.jpg" />
+    <Content Include="blog\images\post2.jpg" />
+    <Content Include="blog\images\post3.jpg" />
+    <Content Include="blog\images\search.png" />
+    <Content Include="blog\index.html" />
+    <Content Include="blog\js\easing.js" />
+    <Content Include="blog\js\jquery.min.js" />
+    <Content Include="blog\js\move-top.js" />
+    <Content Include="blog\single.html" />
+    <Content Include="blog\w3layouts-License.txt" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -228,6 +251,10 @@
     <Content Include="Views\Default\Index.cshtml" />
     <Content Include="Views\Default\About.cshtml" />
     <Content Include="Views\About\Index.cshtml" />
+    <Content Include="Views\Blog\Index.cshtml" />
+    <Content Include="Views\Contact\Index.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Login\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
