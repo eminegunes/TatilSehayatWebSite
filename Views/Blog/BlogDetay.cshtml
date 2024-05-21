@@ -1,6 +1,6 @@
-﻿﻿@model TatilSeyahatWebSite.Models.classes.BlogYorum
+﻿@model TatilSeyahatWebSite.Models.classes.BlogYorum
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "BlogDetay";
     Layout = "~/Views/Shared/_TestLayout.cshtml";
 }
 
@@ -13,6 +13,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
+    <title>Personal Blog a Blogging Category Flat Bootstarp  Responsive Website Template | Single :: w3layouts</title>
     <link href="~/web2/css/bootstrap.css" rel='stylesheet' type='text/css' />
     <link href="~/web2/css/style.css" rel='stylesheet' type='text/css' />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,52 +24,41 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!----webfonts---->
     <link href='http://fonts.googleapis.com/css?family=Oswald:100,400,300,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,300italic' rel='stylesheet' type='text/css'>
+    <!----//webfonts---->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <!--end slider -->
+
 </head>
 <body>
     <!---header---->
     <div class="header">
-        <div class="container">
-            <div class="clearfix"></div>
-        </div>
     </div>
     <!--/header-->
     <div class="single">
         <div class="container">
             <div class="col-md-8 single-main">
-                @foreach (var item in Model.Deger1)
-                {
-                    <div class="single-grid">
-
+                <div class="single-grid">
+                    @foreach (var item in Model.Deger1)
+                    {
                         <img src="@item.BlogImage" alt="" style="margin-bottom:20px;" />
-                        <a href="/Blog/BlogDetay/@item.ID">@item.Baslik</a>
+                        <h2>@item.Baslik</h2>
+                        <br />
                         <p>@item.Aciklama</p>
-                        <p>@item.Tarih</p>
-                    </div>
-                    <br /><br />
+                    }
+                </div>
+                @foreach (var yorum in Model.Deger2)
+                {
+                    <ul class="comment-list">
+                        <li>
+                            <img src="~/web2/images/avatar.png" class="img-responsive" alt=""> <p style="margin-bottom:20px;">@yorum.KullaniciAdi</p><br />
+                            <div class="desc">
+                                <p>@yorum.Yorum</p>
+                            </div>
+                            <div class="clearfix"></div>
+                        </li>
+                    </ul>
                 }
-            </div>
-            <div class="col-md-4 side-content">
-                <div class="recent">
-                    <h3>Son Bloglar</h3>
-                    @foreach (var son in Model.Deger3)
-                    {
-                        <ul>
-                            <li><a href="/Blog/BlogDetay/@son.ID">@son.Baslik</a></li>
-                        </ul>
-                    }
-                </div>
-                <div class="comments">
-                    <h3>Son Yorumlar</h3>
-                    @foreach (var sonY in Model.Deger4)
-                    {
-                        <ul>
-                            <li>
-                                <b>@sonY.KullaniciAdi</b><br />
-                                <a href="/Blog/BlogDetay/@sonY.Blogid"><p>@sonY.Yorum</p></a>
-                            </li>
-                        </ul>
-                    }
-                </div>
+                @Html.Action("YorumYap", "Blog")
             </div>
             <div class="clearfix"></div>
         </div>
