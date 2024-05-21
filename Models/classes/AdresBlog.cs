@@ -15,6 +15,6 @@ namespace TatilSeyahatWebSite.Models.classes
         public string AdresAcik { get; set; }
         public string Mail { get; set; }
         public string Telefon { get; set; }
-        public string Konu { get; set; }
+        public string Konum { get; set; }
     }
 }
