@@ -1,10 +1,8 @@
 ﻿﻿@model TatilSeyahatWebSite.Models.classes.Yorumlar
 @{
     ViewBag.Title = "YorumGetir";
-    Layout = "~/Views/Shared/_TestLayout.cshtml";
-}
-
-<h2>YorumGetir</h2>
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";}
+<h2>Yorum Güncelleme Sayfası</h2>
 <br />
 @using (Html.BeginForm("YorumGuncelle", "Admin", FormMethod.Post))
 {
@@ -20,6 +18,5 @@
     @Html.LabelFor(x => x.Yorum)
     @Html.TextAreaFor(x => x.Yorum, 15, 1, new { @class = "form-control" })
     <br />
-    <button class="btn btn-warning">Yorum GÜNCELLE</button>
+    <button class="btn btn-success">Yorum Güncelle</button>
 }
-

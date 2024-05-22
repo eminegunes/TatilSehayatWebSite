@@ -70,3 +70,9 @@ E:\project\traveltrip\TatilSeyahatWebSite\bin\EntityFramework.dll
 E:\project\traveltrip\TatilSeyahatWebSite\bin\EntityFramework.SqlServer.dll
 E:\project\traveltrip\TatilSeyahatWebSite\bin\EntityFramework.xml
 E:\project\traveltrip\TatilSeyahatWebSite\bin\EntityFramework.SqlServer.xml
+E:\project\traveltrip\TatilSeyahatWebSite\bin\PagedList.dll
+E:\project\traveltrip\TatilSeyahatWebSite\bin\PagedList.Mvc.dll
+E:\project\traveltrip\TatilSeyahatWebSite\bin\PagedList.xml
+E:\project\traveltrip\TatilSeyahatWebSite\bin\PagedList.Mvc.xml
+E:\project\traveltrip\TatilSeyahatWebSite\obj\Debug\TatilSeyahatWebSite.Migrations.seyehat.resources
+E:\project\traveltrip\TatilSeyahatWebSite\obj\Debug\TatilSeyahatWebSite.csproj.GenerateResource.cache

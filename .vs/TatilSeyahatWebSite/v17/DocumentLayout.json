@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:views\\admin\\bloggetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\migrations\\202405221251264_seyehat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:migrations\\202405221251264_seyehat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:web\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\models\\classes\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:models\\classes\\blogyorum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|e:\\project\\traveltrip\\tatilseyahatwebsite\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{031FB209-4B99-4434-BD8B-3E7E47F72BCA}|TatilSeyahatWebSite.csproj|solutionrelative:views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,17 +54,147 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:07:59.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T12:53:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T12:53:06.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202405221251264_seyehat.cs",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Migrations\\202405221251264_seyehat.cs",
+              "RelativeDocumentMoniker": "Migrations\\202405221251264_seyehat.cs",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Migrations\\202405221251264_seyehat.cs",
+              "RelativeToolTip": "Migrations\\202405221251264_seyehat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:51:32.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T12:49:19.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogGetir.cshtml",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Admin\\BlogGetir.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\BlogGetir.cshtml",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Admin\\BlogGetir.cshtml",
+              "RelativeToolTip": "Views\\Admin\\BlogGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T12:48:55.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogYorum.cs",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Models\\classes\\BlogYorum.cs",
+              "RelativeDocumentMoniker": "Models\\classes\\BlogYorum.cs",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Models\\classes\\BlogYorum.cs",
+              "RelativeToolTip": "Models\\classes\\BlogYorum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:42:22.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:41:52.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\web\\index.html",
+              "RelativeDocumentMoniker": "web\\index.html",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\web\\index.html",
+              "RelativeToolTip": "web\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-22T12:37:21.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:33:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Default\\Index.cshtml",
               "ToolTip": "E:\\project\\traveltrip\\TatilSeyahatWebSite\\Views\\Default\\Index.cshtml",
               "RelativeToolTip": "Views\\Default\\Index.cshtml",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAADUAAAAyAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAASwEIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-21T22:36:50.134Z",
               "EditorCaption": ""

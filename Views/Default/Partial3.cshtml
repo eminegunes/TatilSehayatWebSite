@@ -1,19 +1,14 @@
 ﻿﻿@using TatilSeyahatWebSite.Models.classes
 @model List<Blog>
 
-<div class="padding1">
-    <h4>En Beğendiğim Yerler</h4>
-    <div class="box-left">
+<div class="padding">
+    <h4>En Popüler 10 Blog</h4>
+    <ul class="list list-pad">
+        @{ int i = 0; }
         @foreach (var x in Model)
         {
-            <div class="bot-img">
-                <a href="/Blog/BlogDetay/@x.ID"><img src="@x.BlogImage" alt="" style="width:120px; height:65px;" /></a>
-            </div>
-            <div class="bot-desc">
-                <p>@x.Aciklama.Substring(0, 80)...</p>
-            </div>
-            <div class="clear"></div>
+            <li class="list-bg"><span>@{i++; } @i.</span><a href="/Blog/BlogDetay/@x.ID">@x.Baslik</a></li>
         }
-    </div>
-    @Html.Action("Partial4", "Default")
+    </ul>
+    <a href="/Blog/Index" class="link1">Tüm Blogları Gör</a>
 </div>

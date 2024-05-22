@@ -6,15 +6,15 @@
     Layout = "~/Views/Shared/_TestLayout.cshtml";
 }
 
+
 <div class="content">
     <div class="wrap">
         <div class="about">
             <h3>Hakkımızda</h3>
-            @foreach (var item in Model)
+            @foreach (var x in Model)
             {
-                <img src="@item.FotoURL" alt="" />
-
-                <p>@item.Aciklama</p>
+                <img src="@x.FotoURL" alt="" />
+                <p>@x.Aciklama</p>
             }
         </div>
     </div>
