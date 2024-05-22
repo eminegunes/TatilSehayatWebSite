@@ -15,20 +15,17 @@ namespace TatilSeyahatWebSite.Controllers
         // GET: Blog
         Context c = new Context();
         BlogYorum by = new BlogYorum();
-        Yorumlar yorumlar = new Yorumlar();
-        public ActionResult Index(int sayfa = 1)
+        public ActionResult Index()
         {
             //var bloglar = c.Blogs.ToList();
-            by.Deger1 = c.Blogs.OrderByDescending(x => x.ID).Take(50).ToList();
-            //Blog sayısı alır
-            by.Deger3 = c.Blogs.OrderByDescending(x => x.ID).Take(20).ToList();
-            by.Deger4 = c.Yorumlars.OrderByDescending(x => x.ID).Take(20).ToList();
+            by.Deger1 = c.Blogs.ToList();
+            by.Deger3 = c.Blogs.OrderByDescending(x => x.ID).Take(3).ToList(); //descending olarak siralamasi icin
             return View(by);
         }
-        //Nesne türettik.
+
         public ActionResult BlogDetay(int id)
         {
-            // var blogBul = c.Blogs.Where(x => x.ID == id).ToList();
+            //var blogbul = c.Blogs.Where(x => x.ID == id).ToList();
             by.Deger1 = c.Blogs.Where(x => x.ID == id).ToList();
             by.Deger2 = c.Yorumlars.Where(x => x.Blogid == id).ToList();
             return View(by);
